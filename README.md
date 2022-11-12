@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Joshi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="webdevloper" width="500" src="https://training.astrowebsolution.com/wp-content/uploads/2021/12/wdg2.gif">
+<img align="right" alt="webdevloper" width="500" style="margin-top:80px" src="https://training.astrowebsolution.com/wp-content/uploads/2021/12/wdg2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu6861&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu6861" /> </p>
 
