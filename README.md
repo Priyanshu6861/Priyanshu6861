@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Priyanshu6861/Priyanshu6861/blob/main/banner.gif" alt="Priyanshu Joshi Banner" width="100%" />
+  <img src="banner.gif" alt="Priyanshu Joshi Banner" width="100%" />
   
   <br/>
   
@@ -72,11 +72,13 @@ I specialize in engineering robust backend architectures and delivering high-per
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu6861&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=a6a6a6" alt="Priyanshu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu6861&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=a6a6a6" alt="Priyanshu's Streak Stats" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu6861&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=a6a6a6" alt="Priyanshu's GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu6861&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=a6a6a6&layout=compact" alt="Top Languages" width="50%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu6861&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=a6a6a6" alt="Priyanshu's Streak Stats" />
+  <br/>
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu6861&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=a6a6a6&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
