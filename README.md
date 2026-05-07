@@ -9,7 +9,7 @@
   <p>
     <a href="mailto:priyanshujoshi2252@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://upwork.com/"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+    <a href="https://www.upwork.com/freelancers/~011505828566d116f9?mp_source=share/"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
   </p>
 </div>
 
